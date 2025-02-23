@@ -17,13 +17,16 @@ since my flat is an open-area i have to switch off all main lights such as kitch
   <li>alexa ( Smallest Wi-Fi Smart Switch Ever)</li>
   <li>Govee Backlight T2 </li>
   <li>govee Barlight </li>
+  <li> lazy boy sofa</li>
   </ul>
   
  # Kitchen 
  <ul>
   <li>TX ULTIMATE (SONOFF TX Ultimate Smart Touch Wall Switch) control 3 different lights plus chaging the fram effect light </li>
   </ul>
-
+# trigger is (the Lazy Boy Sofa ) 
+once it open the sonoff Door/Window Sensor is open too then the automation starts 
+[![Screenshot of the frontend](https://raw.githubusercontent.com/hatemsms/Gaming-Movie-Mode---home-Assistant/refs/heads/main/G%26M.png)
 
 
 
