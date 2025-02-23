@@ -10,12 +10,12 @@ since my flat is an open-area i have to switch off all main lights such as kitch
 # living Room
 <ul>
 
-  <li>Zigbee 3.0 USB Dongle plus(control the sensor )</li>
-  <li>SNZB-04 ( SONOFF SNZB-04 ZigBee)</li>
-  <li>L2 Lite ( SONOFF L2 Lite Smart LED Light Strip)</li>
-  <li>MINIR4 ( Smallest Wi-Fi Smart Switch Ever)</li>
-  <li>alexa ( Smallest Wi-Fi Smart Switch Ever)</li>
-  <li>Govee Backlight T2 </li>
+  <li>Zigbee 3.0 USB Dongle plus(control Door/Window Sensor )</li>
+  <li>SNZB-04 ( SONOFF SNZB-04 ZigBee) the trigger that linked to the lazy boy sofa  </li>
+  <li>L2 Lite ( SONOFF L2 Lite Smart LED Light Strip) decorate the hiding ceiling </li>
+  <li>MINIR4 ( Smallest Wi-Fi Smart Switch Ever)single switch for living room light </li>
+  <li>alexa ( Smallest Wi-Fi Smart Switch Ever)to announcing which mode is active (gaming or normal ) </li>
+  <li>Govee Backlight T2 (activate the dreamview mode )</li>
   <li>govee Barlight </li>
   <li> lazy boy sofa</li>
   </ul>
