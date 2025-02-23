@@ -7,8 +7,9 @@ This mode /automation will enhance your mood to the fullest and provide you with
 since my flat is an open-area i have to switch off all main lights such as kitchen and living room to be able to make 90% of the area dark then apply the gaming and Movie scene smoothly 
 
 # Smart devices
+# living Room
 <ul>
-  # living Room
+
   <li>Zigbee 3.0 USB Dongle plus(control the sensor )</li>
   <li>SNZB-04 ( SONOFF SNZB-04 ZigBee)</li>
   <li>L2 Lite ( SONOFF L2 Lite Smart LED Light Strip)</li>
@@ -16,10 +17,12 @@ since my flat is an open-area i have to switch off all main lights such as kitch
   <li>alexa ( Smallest Wi-Fi Smart Switch Ever)</li>
   <li>Govee Backlight T2 </li>
   <li>govee Barlight </li>
+  </ul>
+  <ul>
  # Kitchen
-  <liTX ULTIMATE (SONOFF TX Ultimate Smart Touch Wall Switch) control 3 different lights plus chaging the fram effect light </li>
-  
-</ul>
+  <li>TX ULTIMATE (SONOFF TX Ultimate Smart Touch Wall Switch) control 3 different lights plus chaging the fram effect light </li>
+  </ul>
+
 
 
 
