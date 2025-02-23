@@ -18,8 +18,9 @@ since my flat is an open-area i have to switch off all main lights such as kitch
   <li>Govee Backlight T2 </li>
   <li>govee Barlight </li>
   </ul>
-  <ul>
- # Kitchen
+  
+ # Kitchen 
+ <ul>
   <li>TX ULTIMATE (SONOFF TX Ultimate Smart Touch Wall Switch) control 3 different lights plus chaging the fram effect light </li>
   </ul>
 
