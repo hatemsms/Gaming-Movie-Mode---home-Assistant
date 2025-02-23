@@ -31,7 +31,10 @@ since my flat is an open-area i have to switch off all main lights such as kitch
 once it open the sonoff Door/Window Sensor is open too then the automation starts <br>
 [![Screenshot of the frontend](https://raw.githubusercontent.com/hatemsms/Gaming-Movie-Mode---home-Assistant/refs/heads/main/200w.gif)
 
-<br>
+<body>
+
 <iframe width="420" height="345" src="https://youtu.be/3uqqUpu0HSg?si=4lSDI80YSTEnZRkb">
 </iframe>
+
+</body>
 
