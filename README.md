@@ -32,6 +32,6 @@ once it open the sonoff Door/Window Sensor is open too then the automation start
 [![Screenshot of the frontend](https://raw.githubusercontent.com/hatemsms/Gaming-Movie-Mode---home-Assistant/refs/heads/main/200w.gif)
 
 <br>
-<iframe width="420" height="345" src="https://youtu.be/R2KhdRkeTRQ?si=7AF_Y0KxS4Ou6VBs"> 
+<iframe width="420" height="345" src="https://youtu.be/3uqqUpu0HSg?si=4lSDI80YSTEnZRkb">
 </iframe>
 
