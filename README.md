@@ -17,6 +17,7 @@ since my flat is an open-area i have to switch off all main lights such as kitch
   <li>alexa ( Smallest Wi-Fi Smart Switch Ever)to announcing which mode is active (gaming or normal ) </li>
   <li>Govee Backlight T2 (activate the dreamview mode )</li>
   <li>govee Barlight </li>
+  <li>Govee bulb for the side lamp </li>
   <li> lazy boy sofa</li>
   </ul>
   
